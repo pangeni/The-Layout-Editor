@@ -40,8 +40,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void Zero(View view) {
-        btn1.setBackgroundResource(R.color.black);
-        btn2.setBackgroundResource(R.color.black);
+        btn1.setBackgroundResource(R.color.teal_200);
+        btn2.setBackgroundResource(R.color.grey);
         count = 0 ;
         text.setText(""+ count);
     }
