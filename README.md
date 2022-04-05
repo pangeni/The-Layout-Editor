@@ -9,10 +9,10 @@
 ![alt text](L1.png)
 
 ## Horizontal back to zero
-![alt text](L3.png)
+![alt text](l3.png)
 
 ## Vertical layout
-![alt text](L4.png)
+![alt text](l4.png)
 
 ## Tablet layout
 ![alt text](T1.png)
