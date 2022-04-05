@@ -4,14 +4,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity"
     android:orientation="horizontal"
+    tools:context=".MainActivity"
     tools:layout_editor_absoluteY="89dp">
 
     <Button
         android:id="@+id/button_toast"
-        android:layout_width="500dp"
-        android:layout_height="wrap_content"
+        android:layout_width="296dp"
+        android:layout_height="96dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:background="@color/colorPrimary"
@@ -26,8 +26,8 @@
 
     <Button
         android:id="@+id/button_count"
-        android:layout_width="500dp"
-        android:layout_height="wrap_content"
+        android:layout_width="312dp"
+        android:layout_height="96dp"
         android:layout_marginStart="8dp"
         android:background="@color/colorPrimary"
         android:onClick="countUp"
